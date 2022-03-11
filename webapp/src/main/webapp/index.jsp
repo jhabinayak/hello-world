@@ -9,7 +9,7 @@
     <br>
     
     <label for="mobile"><b>mobile</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
+    <input type="text" placeholder="123456789" name="mobile" id="mobile" required>
     <br>
 
     <label for="email"><b>Enter Email</b></label>
